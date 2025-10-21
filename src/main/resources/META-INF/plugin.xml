@@ -171,7 +171,7 @@
     <idea-version since-build="213.7172"/>
 
     <depends>com.intellij.modules.platform</depends>
-    <depends>com.intellij.modules.androidstudio</depends>
+    <depends optional="true">com.intellij.modules.androidstudio</depends>
     <depends>org.jetbrains.android</depends>
 
     <actions>
